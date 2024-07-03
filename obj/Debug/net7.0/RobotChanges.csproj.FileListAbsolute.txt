@@ -1,0 +1,15 @@
+C:\Users\kushs\Documents\Code\RobotChanges\bin\Debug\net7.0\RobotChanges.exe
+C:\Users\kushs\Documents\Code\RobotChanges\bin\Debug\net7.0\RobotChanges.deps.json
+C:\Users\kushs\Documents\Code\RobotChanges\bin\Debug\net7.0\RobotChanges.runtimeconfig.json
+C:\Users\kushs\Documents\Code\RobotChanges\bin\Debug\net7.0\RobotChanges.dll
+C:\Users\kushs\Documents\Code\RobotChanges\bin\Debug\net7.0\RobotChanges.pdb
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.csproj.AssemblyReference.cache
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.AssemblyInfoInputs.cache
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.AssemblyInfo.cs
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.csproj.CoreCompileInputs.cache
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.dll
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\refint\RobotChanges.dll
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.pdb
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\RobotChanges.genruntimeconfig.cache
+C:\Users\kushs\Documents\Code\RobotChanges\obj\Debug\net7.0\ref\RobotChanges.dll
